@@ -1,0 +1,9 @@
+# y, xstart, xend, rotation, color, label, va,  bed
+ .8,     .2,    .9,       180,      , Arabidopsis, bottom, Ath.bed
+ .6,     .2,    .9,       180,      , Amborella, bottom, Atr.bed
+ .4,     .2,    .9,       180,      , Sorghum, bottom, Sbi.bed
+ .2,     .2,    .9,       180,      , Miscanthus, bottom, Msi.bed
+# edges
+e, 0, 1, Ath.Atr.anchors.simple
+e, 1, 2, Atr.Sbi.anchors.simple
+e, 2, 3, Sbi.Msi.anchors.simple

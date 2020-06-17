@@ -1,0 +1,16 @@
+MgCCR1	MgCCR2
+C	G
+G	C
+C	G
+A	G
+T	C
+G	C
+C	T
+G	C
+C	T
+A	C
+A	C
+C	T
+C	T
+C	T
+A	C

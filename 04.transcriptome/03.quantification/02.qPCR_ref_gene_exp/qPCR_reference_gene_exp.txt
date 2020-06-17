@@ -1,0 +1,3 @@
+Ref_gene	Spring_Rhizome	Immature_Inflorescence	Mature_Leaf	Vegetative_Shoot_Apex	Vegetative_Shoot_Sub_Apex	Emerging_Shoot_samples_avg	Rhizome_Bud	Preflowering_Apex	Mature_Inflorescence	Root	Spring_Rhizome_May_avg	Fall_Rhizome_Oct_avg
+eEF-1a	2399.094	1734.598	3181.831	4064.229	3888.396	2957.6995	4416.865	4035.267	3111.577	4717.585	2154.673	3193.731667
+UBQ	7487.039	8932.414	8691.183	7819.214	7058.641	9075.127	8651.08	10549.631	14440.38	10520.781	10099.259	8206.546333
