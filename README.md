@@ -5,3 +5,7 @@ Custom scripts and data in the study of monolignol biosynthesis pathway in Misca
 If you have any questions, do not hesitate to contact me.
 
 Email: xiaofei_zeng#whu.edu.cn (replace `#` by `@`)
+
+## Reference
+
+Zeng X, Sheng J, Zhu F, et al. **Genetic, transcriptional, and regulatory landscape of monolignol biosynthesis pathway in *Miscanthus* × *giganteus*** Biotechnology for biofuels, 2020, 13(1): 1-14.
